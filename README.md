@@ -1,3 +1,1 @@
-Projeto criado com apoio da RocketSeat ONE.
-
-O aplicativo é um marcador de presença para ser usado em qualquer lugar, como em uma festa, conferencia ou etc.
+Este aplicativo foi desenvolvido com o apoio da RocketSeat ONE e tem como objetivo fornecer uma solução prática para marcar presença em eventos como festas, conferências, reuniões e outros. Com uma interface simples e eficiente, o Marcador de Presença permite registrar a entrada e saída de participantes, facilitando o controle de presença em qualquer tipo de evento.
